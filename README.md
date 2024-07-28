@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="412" height="412" src="https://i.imgur.com/oFCDxaR.png">
+</p>
+
 # The Omega Project
 TOP is a free-to-play, rhythm game; <br/>
 Taking a **unique** approach to rhythm gaming entirely. <br/>
